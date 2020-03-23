@@ -1,0 +1,14 @@
+{
+  "name": "myuaserver",
+  "version": "0.0.1",
+  "description": "Sample/Test of node-opcua",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rik",
+  "license": "ISC",
+  "dependencies": {
+    "node-opcua": "^2.5.1"
+  }
+}
